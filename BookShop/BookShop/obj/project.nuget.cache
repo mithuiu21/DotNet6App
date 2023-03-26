@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ct2KgqxQvBXSgPbzKQpNvf/11frGc5D9T2uyck4x2xQmrFP23JLH8jx/w7YJXeW+2IDbgsbGwJPgnv+pVAPe5Q==",
+  "dgSpecHash": "ohvjTla2DIfNmUvOlNLq9lyAMObk3yBT/6iNHw3vNBJdHgiBvvyXcJ5jdgmY3kWtjBuYrVugeoQcdGiTEjiJ4A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Azure\\BookShop\\Azure\\BookShop\\BookShop.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\GitHub\\DotNet6App\\BookList\\BookShop\\BookShop.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
