@@ -4,7 +4,7 @@ This is a book list web app developed with MVC Basics-CRUD Operation. Firstly I 
 <img align="right" alt="listpage" src="https://github.com/mithuiu21/DotNet6App/blob/main/BookShop/img/1.png" />
 <br/>
 
-###Add New Book Required fields.
+### Add New Book Required fields.
 <img align="right" alt="listpage" src="https://github.com/mithuiu21/DotNet6App/blob/main/BookShop/img/2.png" />
 <br/>
 
@@ -23,5 +23,5 @@ This is a book list web app developed with MVC Basics-CRUD Operation. Firstly I 
 ### Delete Item
 <img align="right" alt="listpage" src="https://github.com/mithuiu21/DotNet6App/blob/main/BookShop/img/6.png" />
 <br/>
-[ASP.NET]:https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0 [Click][ASP.NET]
+[ASP.NET]:https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0 [<Click>][ASP.NET]
  
