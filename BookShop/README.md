@@ -23,5 +23,9 @@ This is a book list web app developed with MVC Basics-CRUD Operation. Firstly I 
 ### Delete Item
 <img align="right" alt="listpage" src="https://github.com/mithuiu21/DotNet6App/blob/main/BookShop/img/6.png" />
 <br/>
-[ASP.NET]:https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0 [<Click>][ASP.NET]
+Click[ASP.NET]
+<br />
+--
+
+[ASP.NET]:https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0 
  
