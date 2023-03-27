@@ -25,5 +25,5 @@ This is a book list web app developed with MVC Basics-CRUD Operation. Firstly I 
 <br/>
 
 
-- Resource: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0 
+- Reference: https://learn.microsoft.com/en-us/aspnet/core/?view=aspnetcore-6.0 
  
